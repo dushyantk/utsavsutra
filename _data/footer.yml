@@ -7,11 +7,11 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/
+    link: https://facebook.com/utsavsutra
     new_window: true
     social_icon: Facebook
   - name:
-    link: https://twitter.com/
+    link: https://twitter.com/utsavsutra
     social_icon: Twitter
     new_window: true
   - name:

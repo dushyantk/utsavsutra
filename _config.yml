@@ -3,7 +3,7 @@
 
 title: Utsav~Sutra
 url: "http://utsavsutra.com"
-baseurl:
+baseurl: "http://utsavsutra.com"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -18,7 +18,7 @@ author:
 social:
   name: Utsav~Sutra
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - http://utsavsutra.com/
 
 # -----
 # Build
